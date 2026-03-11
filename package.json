@@ -1,0 +1,15 @@
+{
+  "name": "codex-runner",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Run codex CLI in a real PTY, forwarding output and interactive input.",
+  "license": "UNLICENSED",
+  "bin": {
+    "codex-runner": "./codex-runner.js"
+  },
+  "dependencies": {
+    "@tencent-connect/openclaw-qqbot": "^1.5.6",
+    "node-pty": "^1.0.0",
+    "ws": "^8.18.3"
+  }
+}
