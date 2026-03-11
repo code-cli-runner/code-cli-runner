@@ -123,14 +123,14 @@ PIP3_BIN=
 直接启动：
 
 ```bash
-node codex-runner.js
+node main.js
 ```
 
 或者给脚本执行权限后启动：
 
 ```bash
-chmod +x codex-runner.js
-./codex-runner.js
+chmod +x main.js
+./main.js
 ```
 
 ## 机器人行为说明

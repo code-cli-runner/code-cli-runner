@@ -5,7 +5,7 @@
   "description": "Run codex CLI in a real PTY, forwarding output and interactive input.",
   "license": "UNLICENSED",
   "bin": {
-    "codex-runner": "./codex-runner.js"
+    "codex-runner": "./main.js"
   },
   "dependencies": {
     "node-pty": "^1.0.0",
